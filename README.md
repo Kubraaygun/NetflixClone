@@ -14,7 +14,7 @@
 <li>Her film için detay sayfası bulunur.</li>
 <li>Detay sayfasında film hakkında bilgiler, yapımcı şirketler, konuşulan diller, yapımcı ülkeler ve oyuncu kadrosu listelenir.</li>
 <li>Detay sayfasında film ile ilgili videolar gösterilir.</li>
-<li>Film detay sayfasında kullanıcılar bütçe ve gelir gibi ek bilgilere erişebilirler.</li>
+<li>Film detay sayfasında kullanıcılar bütçe ve gelir gibi ek bilgiler erişebilirler.</li>
 </ul>
 
 
@@ -40,7 +40,7 @@
 <li><b>Resim İçin BaseURL:</b> https://image.tmdb.org/t/p/original# NetflixClone</li>
 </ul>
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Ekran Görün</h2>
 
 ![](./public/netflix-gif.gif)
 
