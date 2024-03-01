@@ -40,7 +40,7 @@
 <li><b>Resim İçin BaseURL:</b> https://image.tmdb.org/t/p/original# NetflixClone</li>
 </ul>
 
-<h2>Ekran Görün</h2>
+<h2>Ekran Görüntüsü</h2>
 
 ![](./public/netflix-gif.gif)
 
